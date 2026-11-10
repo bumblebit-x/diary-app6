@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "diary-app6",
+    "slug": "diary-app6",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "diary-app6",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
